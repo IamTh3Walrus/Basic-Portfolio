@@ -22,21 +22,25 @@ h1{
 	background:#4aaaa5;
 	font-size: 30px;
 	margin:0px 950px 0px 150px;
-	padding:20px 20px;
+	padding:25px 25px;
+	font-weight: bold;
 }
 
 h2{
 	color:#4aaaa5;
 	border-bottom: 2px #cccccc solid;
 	padding-bottom: 20px;
-	font-size: 30px;
+	font-size: 25px;
+	font-weight: bold;
 }
 
 h3{
 	color:#4aaaa5;
+	font-size: 25px;
 	border-bottom: 2px #cccccc solid;
 	padding-bottom: 20px;
 	margin-left: 10px;
+	font-weight: bold;
 }
 
 a{
@@ -97,7 +101,7 @@ aside{
 	padding:40px 20px;
 	border: 1px solid #dddddd;
 	background: #fff;
-	margin-right: 350px;
+	margin-right: 270px;
 	
 
 }
